@@ -73,9 +73,9 @@ object-fit: cover;
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid #ffffff;
+  border: 1px solid #283618;
   cursor: pointer;
-  color: #ffffff;
+  color: #283618;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -83,7 +83,7 @@ object-fit: cover;
 }
 
 .myButton:hover {
-    background-color:#283618;
+    background-color:#a3b18a;
 }
 
 .myButton:active {
