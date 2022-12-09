@@ -14,7 +14,7 @@ header, footer {
 
 header {
   font-family: 'Inter', sans-serif;
-  color: #fff;
+  color: #fefae0;
   min-height: 100vh;
   display: flex;
 }
